@@ -94,7 +94,7 @@ export default function Layout() {
           href: "#",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/black-white-photo-circular-room-with-pillar-center_250224-126.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/black-white-photo-circular-room-with-pillar-center_250224-126.jpg?_wi=2"
     />
       </SectionErrorBoundary>
     </StyleProvider>
