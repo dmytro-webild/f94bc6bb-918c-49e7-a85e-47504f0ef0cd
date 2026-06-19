@@ -23,7 +23,13 @@ export default function HomePage() {
         text: "View Menu",
         href: "#menu",
       }}
-      imageSrc="http://img.b2bpic.net/free-photo/black-white-photo-circular-room-with-pillar-center_250224-126.jpg?_wi=1"
+      avatarsSrc={[
+        "https://i.pravatar.cc/150?img=1",
+        "https://i.pravatar.cc/150?img=2",
+        "https://i.pravatar.cc/150?img=3",
+      ]}
+      avatarText="Loved by 10,000+ customers"
+      names={["Google", "Facebook", "Amazon", "Apple", "Netflix"]}
     />
     </SectionErrorBoundary>
   </div>
