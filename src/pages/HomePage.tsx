@@ -23,7 +23,7 @@ export default function HomePage() {
         text: "View Menu",
         href: "#menu",
       }}
-      imageSrc="http://img.b2bpic.net/free-photo/black-white-photo-circular-room-with-pillar-center_250224-126.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/black-white-photo-circular-room-with-pillar-center_250224-126.jpg?_wi=1"
     />
     </SectionErrorBoundary>
   </div>
