@@ -10,24 +10,24 @@ export default function MenuSection(): React.JSX.Element {
     <div id="menu" data-section="menu">
         <SectionErrorBoundary name="menu">
               <FeaturesRevealCardsBento
-          tag="Signature Menu"
-          title="Premium Selections"
-          description="Hand-crafted quality in every cup and dish."
+          tag="เมนูแนะนำ"
+          title="คัดสรรความพรีเมียม"
+          description="ความใส่ใจในทุกรายละเอียด เพื่อรสชาติที่สมบูรณ์แบบในทุกแก้วและทุกจาน"
           items={[
             {
-              title: "House Blend",          description: "Premium House Blend Coffee",          href: "#",          imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-charming-lady-with-dark-hair-white-tshirt-is-holding-cup-looking-window-sunshine-after-morning-wake-up_291650-2275.jpg"},
+              title: "กาแฟเฮาส์เบลนด์",          description: "กาแฟสเปเชียลตี้เบลนด์พิเศษ หอมกรุ่นเป็นเอกลักษณ์",          href: "#",          imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-charming-lady-with-dark-hair-white-tshirt-is-holding-cup-looking-window-sunshine-after-morning-wake-up_291650-2275.jpg"},
             {
-              title: "Matcha",          description: "Strawberry Matcha Latte",          href: "#",          imageSrc: "http://img.b2bpic.net/free-photo/food-cold-healthy-wood-mint_1172-510.jpg"},
+              title: "สตรอว์เบอร์รีมัทฉะ",          description: "มัทฉะพรีเมียมผสานความสดชื่นของสตรอว์เบอร์รี",          href: "#",          imageSrc: "http://img.b2bpic.net/free-photo/food-cold-healthy-wood-mint_1172-510.jpg"},
             {
-              title: "Pastries",          description: "Freshly baked artisan pastries daily",          href: "#",          imageSrc: "http://img.b2bpic.net/free-photo/top-view-chocolate-cake-with-blueberries-copy-space_23-2148689787.jpg"},
+              title: "เบเกอรี่โฮมเมด",          description: "ขนมอบสดใหม่ทุกวัน คัดสรรวัตถุดิบชั้นดี",          href: "#",          imageSrc: "http://img.b2bpic.net/free-photo/top-view-chocolate-cake-with-blueberries-copy-space_23-2148689787.jpg"},
             {
-              title: "Brunch",          description: "Gourmet seasonal lunch plates",          href: "#",          imageSrc: "http://img.b2bpic.net/free-photo/fried-salmon-fillet-with-sauce-top_140725-6436.jpg"},
+              title: "บรันช์",          description: "อาหารมื้อสายสไตล์นอร์ดิก ปรุงจากวัตถุดิบตามฤดูกาล",          href: "#",          imageSrc: "http://img.b2bpic.net/free-photo/fried-salmon-fillet-with-sauce-top_140725-6436.jpg"},
             {
-              title: "Cold Brew",          description: "Slow-steeped cold brew",          href: "#",          imageSrc: "http://img.b2bpic.net/free-photo/still-life-glass-cups_23-2149646424.jpg"},
+              title: "โคลด์บรูว์",          description: "กาแฟสกัดเย็น รสชาตินุ่มนวล ดื่มง่าย",          href: "#",          imageSrc: "http://img.b2bpic.net/free-photo/still-life-glass-cups_23-2149646424.jpg"},
             {
-              title: "Dessert",          description: "Signature dessert creations",          href: "#",          imageSrc: "http://img.b2bpic.net/free-photo/golden-dyed-chocolate-volcano-served-with-vanilla-ice-cream-berries-tea_141793-2309.jpg"},
+              title: "ของหวาน",          description: "ขนมหวานสูตรซิกเนเจอร์ รสชาติละมุนลิ้น",          href: "#",          imageSrc: "http://img.b2bpic.net/free-photo/golden-dyed-chocolate-volcano-served-with-vanilla-ice-cream-berries-tea_141793-2309.jpg"},
             {
-              title: "Espresso",          description: "Rich artisanal espresso",          href: "#",          imageSrc: "http://img.b2bpic.net/free-photo/food-celebrating-world-tapas-day_23-2149361453.jpg"},
+              title: "เอสเพรสโซ่",          description: "เอสเพรสโซ่เข้มข้น สกัดอย่างพิถีพิถัน",          href: "#",          imageSrc: "http://img.b2bpic.net/free-photo/food-celebrating-world-tapas-day_23-2149361453.jpg"},
           ]}
         />
         </SectionErrorBoundary>
