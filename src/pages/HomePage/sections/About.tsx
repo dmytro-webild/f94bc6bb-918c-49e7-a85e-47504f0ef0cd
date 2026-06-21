@@ -10,9 +10,9 @@ export default function AboutSection(): React.JSX.Element {
     <div id="about" data-section="about">
         <SectionErrorBoundary name="about">
               <AboutMediaOverlay
-          tag="Our Heritage"
-          title="A Blend of Nordic Design and Rice Mill Heritage"
-          description="Spanning over 7 Rai, our cafe perfectly merges modern architecture with the nostalgic, warm soul of traditional teak wood rice mill construction."
+          tag="มรดกของเรา"
+          title="การผสมผสานระหว่างดีไซน์นอร์ดิกและตำนานโรงสีข้าว"
+          description="บนพื้นที่กว่า 7 ไร่ คาเฟ่ของเราผสานสถาปัตยกรรมสมัยใหม่เข้ากับจิตวิญญาณอันอบอุ่นและกลิ่นอายของโรงสีข้าวไม้สักโบราณได้อย่างลงตัว"
           imageSrc="http://img.b2bpic.net/free-photo/beverage-baked-apples-near-napkin-leaves_23-2147885822.jpg"
         />
         </SectionErrorBoundary>
