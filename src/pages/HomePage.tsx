@@ -11,7 +11,8 @@ import MenuSection from './HomePage/sections/Menu';
 import TestimonialsSection from './HomePage/sections/Testimonials';
 import ContactSection from './HomePage/sections/Contact';
 
-export default function HomePage(): React.JSX.Element {
+
+import PricingCalculatorSection from './HomePage/sections/PricingCalculator';export default function HomePage(): React.JSX.Element {
   return (
 <>
   <HeroSection />
@@ -21,6 +22,7 @@ export default function HomePage(): React.JSX.Element {
   <ZonesSection />
 
   <MenuSection />
+      <PricingCalculatorSection />
 
   <TestimonialsSection />
 
